@@ -1,7 +1,7 @@
 # swfit java客户端
 ## 引自 https://github.com/denwill/java-cloudfiles
+## java实现 http://docs.ceph.com/docs/master/radosgw/swift/#api 接口
 
-## 变更
 
 
 
